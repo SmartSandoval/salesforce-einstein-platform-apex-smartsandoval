@@ -1,1 +1,14 @@
-# salesforce-einstein-platform-apex-smartsandoval
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
